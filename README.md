@@ -1,6 +1,6 @@
-# Robinhood Clone
+# Stockerr
 
-A full-stack web application that clones core features of Robinhood, built with Next.js and Flask.
+A full-stack web application that core features of Robinhood, built with Next.js and Flask.
 
 ## Features
 - Real-time stock price tracking
